@@ -1,7 +1,7 @@
-body {
+/* body {
     margin: 0;
     padding: 0;
-}
+} */
 
 
 /***********************AŞAĞI YUKARI BUTONU********************************************/
@@ -80,78 +80,18 @@ body {
     /* margin-left: auto;
     margin-right: auto;} */
 }
-.left-bar {
-    width: 180px;
-    height: 2000px;
-    /* padding: 900px 2px; */
-    float: left;
-    color: rgb(247, 110, 17);
-    background-color: rgba(0, 0, 0, 0.548);
-    margin-right: 2%;
-}
-.content {
+
+/* .content {
     width: 800px;
     float: left;
-}
+} */
 
 .clear {
     clear: both;
 }
 
-.container {
-    /* margin-top: 0px; */
-    width: 1000px;
-    /* height: auto; */
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 0px;
-    /* yada kısaca aşağıdaki iki satır */
-    /* margin: 0 auto 0 auto; */
-    /* margin: 0 auto; */
-}
-.card1 {
-    width: 28%;
-    float: left;
-    padding: 1%;
-    margin-right: 3%;
+.font1 {
     background-color: none;
-    border-radius: 10px;
     font-family: 'Harry Potter', sans-serif;
     text-decoration-color:blueviolet ;
-}
-.card2 {
-    width: 1000px;
-    float: left;
-    padding: 5%;
-    margin-right: 1%;
-    background-color: rgba(105, 105, 105, 0.514);
-    border-radius: 10px;
-}
-.card3 {
-    width: 100%;
-    float: left;
-    /* background   -color: lightslategray; */
-}
-/* .container {
-    height: 300px;
-    width: 300px;
-    padding: 10px;
-    /* margin: 10px; bu satır kutuya çevresel olrak veirir */
-    /* margin-top: 10px; */
-    /* margin-left: 10px; */
-    /* margin-bottom: 10px; */
-    /* margin-right: 10px; */
-    /* float: left; */
-/* } */
-
-.bg-red {
-    background-color: red;
-}
-
-.bg-green {
-    background-color: green;
-}
-
-.bg-yellow {
-    background-color: yellow;
 }
