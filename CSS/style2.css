@@ -81,10 +81,14 @@
     margin-right: auto;} */
 }
 
-/* .content {
-    width: 800px;
+.card2 {
+    width: 1000px;
     float: left;
-} */
+    padding: 5%;
+    margin-right: 1%;
+    background-color: rgba(255, 186, 83, 0.527);;
+    border-radius: 10px;
+}
 
 .clear {
     clear: both;
